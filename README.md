@@ -1,4 +1,4 @@
-# low-budget-square-root-function
+# sassy-square-root-function
 
 If you've ever thought to yourself:
 "Wow, the default square root function in R sure is boring."
