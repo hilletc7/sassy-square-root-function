@@ -1,5 +1,4 @@
 sassysqrt <- function(x, tol=.000001, verbose=FALSE) {
-  sass <- 
   myguess=10
 	x <- if(x < 0){return("Stop! You have violated the law. This function will not allow you to take the square root of a negative number")} else if(x==0) {return(0)} else{x} 
 	newguess <- if(myguess < 0){return("Stop! That's illegal. The square root of a number cannot be negative")} else{myguess}  
