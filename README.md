@@ -9,7 +9,7 @@ I have just the solution.
 
 Introducing "sassy_sqrtfunc.R"!
 
-```sassy_sqrt()``` will not only work as a vanilla square root function but also as a condescending ass! 
+```sassy_sqrt()``` will not only work as a vanilla square root function but also as a source for "pop culture" reference that will harm your soul! 
 This function will sass you until your ego is broken when you act like a cretin and request the square root of a negative number.
 
 Give it a shot
